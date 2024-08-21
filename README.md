@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- @format -->
 
 # today_weather
@@ -29,3 +30,6 @@ Code Complexity: beginner -> intermediate
 =======
 # weather-app
 >>>>>>> 9610b777c78e0585ffbaa04d06477e322a9832bd
+=======
+# weather-app
+>>>>>>> 573ff628c340d53dbd9f4321491f210f9c1f35b8
