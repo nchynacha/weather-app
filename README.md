@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <!-- @format -->
 
-# today_weather
+# Today_weather
 
 today_weather is the example project to use in flutter training, to demostrate hot to build an application using simple flutter widget system, combine with setState funtionality
 
