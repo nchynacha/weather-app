@@ -9,6 +9,8 @@ Objective: understanding code structure, refactor code, setState.
 
 Code Complexity: beginner -> intermediate
 
+![Preview](https://github.com/nchynacha/weather-app/blob/main/assets/images/preview.png)
+
 ## Features
 
 - **Real-Time Weather Updates**: Get current weather conditions based on your location.
